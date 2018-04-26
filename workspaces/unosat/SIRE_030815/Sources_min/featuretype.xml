@@ -1,0 +1,57 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7faa</id>
+  <name>Sources_min</name>
+  <nativeName>Sources_min</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Sources minérales</title>
+  <abstract>Sources thermales. &#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>Sources_min</string>
+    <string>features</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/377b81971fee9441895e00ed8e7203cc2601e13a</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2077425.1921070712</minx>
+    <maxx>2077427.1921070712</maxx>
+    <miny>2227020.454007335</miny>
+    <maxy>2227022.454007335</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.661828016847153</minx>
+    <maxx>18.661845983152833</maxx>
+    <miny>19.611130537939673</miny>
+    <maxy>19.611147462059822</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

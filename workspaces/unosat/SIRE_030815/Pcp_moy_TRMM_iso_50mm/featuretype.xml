@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc0</id>
+  <name>Pcp_moy_TRMM_iso_50mm</name>
+  <nativeName>Pcp_moy_TRMM_iso_50mm</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Isohyètes TRMM (50mm)</title>
+  <abstract>Isohyètes (mm/an), intervalle 50mm,  période 1998-2012&#xd;
+&#xd;
+Interpolation à partir des précipitations moyennes de la période 1998-2012 &#xd;
+&#xd;
+Légère surestimation possible, données non calibrées avec stations au sol&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>Pcp_moy_TRMM_iso_50mm</string>
+    <string>features</string>
+    <string>précipitations</string>
+    <string>pluie</string>
+    <string>trmm</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/2440d7ea15265b0419880aee987ca27dd28fe3ea</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1199467.51329752</minx>
+    <maxx>2919353.646053602</maxx>
+    <miny>420535.44450341736</miny>
+    <maxy>3026974.95005849</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>10.774999999999975</minx>
+    <maxx>26.22500000000002</maxx>
+    <miny>3.7749999999999817</miny>
+    <maxy>26.22500000000002</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

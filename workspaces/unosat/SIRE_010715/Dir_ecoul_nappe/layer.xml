@@ -1,0 +1,15 @@
+<layer>
+  <name>Dir_ecoul_nappe</name>
+  <id>LayerInfoImpl-7b1139d1:14e25f8240a:-7f6e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7ecd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7f6f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

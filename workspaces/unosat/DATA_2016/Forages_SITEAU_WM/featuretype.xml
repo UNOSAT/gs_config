@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--73241f13:1540fa58ed0:-7ff7</id>
+  <name>Forages_SITEAU_WM</name>
+  <nativeName>Forages_SITEAU_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Forages_SITEAU_WM</title>
+  <keywords>
+    <string>features</string>
+    <string>Forages_SITEAU_WM</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1515058.2696964548</minx>
+    <maxx>2641735.3037981438</maxx>
+    <miny>840846.4346200771</miny>
+    <maxy>2491593.26962847</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.610000000000014</minx>
+    <maxx>23.731112</maxx>
+    <miny>7.531667000000016</miny>
+    <maxy>21.83388899999999</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

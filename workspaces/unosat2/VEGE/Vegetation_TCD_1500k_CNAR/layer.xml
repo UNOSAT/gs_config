@@ -1,0 +1,15 @@
+<layer>
+  <name>Vegetation_TCD_1500k_CNAR</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7e8f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7e90</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,59 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7f9e</id>
+  <name>Zones_irriguees</name>
+  <nativeName>Zones_irriguees</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Zones irriguées</title>
+  <abstract>Zones irriguées&#xd;
+&#xd;
+Digitalisé sur la base de la présence d&apos;ouvrage de rétention (seuil) des eaux de surface&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2014</abstract>
+  <keywords>
+    <string>Zones_irriguees</string>
+    <string>features</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/b2a60a4014f39907cb14b5a4baa1d92049de40cd</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2323342.3018574766</minx>
+    <maxx>2472088.629969847</maxx>
+    <miny>1524032.073572536</miny>
+    <maxy>1650991.9525347073</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>20.87093900000002</minx>
+    <maxx>22.207150000000013</maxx>
+    <miny>13.562163999999978</miny>
+    <maxy>14.668209999999988</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

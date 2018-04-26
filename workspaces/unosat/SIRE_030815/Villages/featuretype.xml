@@ -1,0 +1,56 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fa0</id>
+  <name>Villages</name>
+  <nativeName>Villages</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Villages</title>
+  <abstract>Villages administratifs, villages, hameaux</abstract>
+  <keywords>
+    <string>Villages</string>
+    <string>features</string>
+    <string>villages</string>
+    <string>hameaux</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/a5d9cbe725fbae1bc3c71fbdf116458774de9a75</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1806009.0134057477</minx>
+    <maxx>2582623.3183530285</maxx>
+    <miny>1343170.6298293276</miny>
+    <maxy>2499862.925794122</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>16.223655000000008</minx>
+    <maxx>23.200100000000024</maxx>
+    <miny>11.97770000000002</miny>
+    <maxy>21.902830999999985</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

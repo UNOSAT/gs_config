@@ -1,0 +1,70 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7e9d</id>
+  <name>Failles_fosses_continentaux_8M_P</name>
+  <nativeName>Failles_fosses_continentaux_8M_P</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-71f20adf:162d4838f65:-7e76</id>
+  </namespace>
+  <title>Failles et Fossés continentaux (8M)</title>
+  <abstract>Failles, version pour la carte synoptique au 8 million.&#xd;
+Interprétées et vectorisées à partir de reliefs ombrés SRTM et Tandem-X sur la base des cartes de Bellion 1989.&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Failles_fosses_continentaux_8M_P</string>
+    <string>Faille</string>
+    <string>Fossés</string>
+    <string>Graben</string>
+    <string>Horst</string>
+    <string>Tectonique</string>
+    <string>Accident</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;WGS 84 / Pseudo-Mercator&quot;, &#xd;
+  GEOGCS[&quot;WGS 84&quot;, &#xd;
+    DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+      SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]], &#xd;
+  PROJECTION[&quot;Popular Visualisation Pseudo Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;1024&quot;]], &#xd;
+  PARAMETER[&quot;semi_minor&quot;, 6378137.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 0.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;3857&quot;]]</nativeCRS>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>780323.693</minx>
+    <maxx>2602700.679100001</maxx>
+    <miny>669514.9133000001</miny>
+    <maxy>2569180.1464</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>7.009766999824891</minx>
+    <maxx>23.38045800023789</maxx>
+    <miny>6.00333999994234</miny>
+    <maxy>22.47939200033671</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-71f20adf:162d4838f65:-7d9f</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

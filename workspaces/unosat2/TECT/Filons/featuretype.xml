@@ -1,0 +1,76 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7e9f</id>
+  <name>Filons</name>
+  <nativeName>Filons</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-71f20adf:162d4838f65:-7e76</id>
+  </namespace>
+  <title>Filons</title>
+  <abstract>Interprété et vectorisé à partir de scènes LANDSAT (produit SULTAN), d&apos;images&#xd;
+RADAR (JERS et ERS) et du modèle numérique de terrain SRTM.&#xd;
+Nomenclature d&apos;après terrain et littérature géologique (Kusnir, 1995).&#xd;
+&#xd;
+Dykes et filons supérieurs à 10 km pour les cartes au 500&apos;000 et à 4km pour les cartes au 200&apos;000 (min. 2 km pour SIRE)&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Filons</string>
+    <string>Géologie</string>
+    <string>Mafique</string>
+    <string>Acide</string>
+    <string>Basique</string>
+    <string>Orientation</string>
+    <string>Direction</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;WGS 84 / Pseudo-Mercator&quot;, &#xd;
+  GEOGCS[&quot;WGS 84&quot;, &#xd;
+    DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+      SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]], &#xd;
+  PROJECTION[&quot;Popular Visualisation Pseudo Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;1024&quot;]], &#xd;
+  PARAMETER[&quot;semi_minor&quot;, 6378137.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 0.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 0.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 0.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;3857&quot;]]</nativeCRS>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1710278.2588</minx>
+    <maxx>2551945.2252000016</maxx>
+    <miny>1366766.7886999995</miny>
+    <maxy>2636262.610499999</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>15.363690999773626</minx>
+    <maxx>22.924514000329957</maxx>
+    <miny>12.184972999930487</miny>
+    <maxy>23.035089000125165</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-71f20adf:162d4838f65:-7d9f</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

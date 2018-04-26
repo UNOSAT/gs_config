@@ -1,0 +1,39 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7d9c</id>
+  <name>Puits_ResEau_WM</name>
+  <nativeName>Puits_ResEau_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Puits</title>
+  <keywords>
+    <string>Puits_ResEau_WM</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1765311.498127654</minx>
+    <maxx>2627541.8460830203</maxx>
+    <miny>1345929.193686459</miny>
+    <maxy>2439606.325084736</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>15.858063000000016</minx>
+    <maxx>23.603610000000003</maxx>
+    <miny>12.001939999999978</miny>
+    <maxy>21.399728999999965</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

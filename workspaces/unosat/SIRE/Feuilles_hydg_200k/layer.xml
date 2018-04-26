@@ -1,0 +1,15 @@
+<layer>
+  <name>Feuilles_hydg_200k</name>
+  <id>LayerInfoImpl-7b1139d1:14e25f8240a:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3a4a336a:1531efb62e9:-78fc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

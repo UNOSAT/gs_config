@@ -1,0 +1,57 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fe8</id>
+  <name>Feuilles_hydg_detail</name>
+  <nativeName>Feuilles_hydg_detail</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Feuilles ResEau Hors-Série</title>
+  <abstract>Emprise des cartes hydrogéologiques du projet ResEau au 1:100’000 des Lacs d&apos;Ounianga et au 1:150&apos;000 des Palmeraies de Faya</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Feuilles_hydg_detail</string>
+    <string>emprise</string>
+    <string>carte</string>
+    <string>ResEau</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/3a77aea4864804fedc3b06c3d174e40a4a3cfdca</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2042712.6560565725</minx>
+    <maxx>2337709.3066587453</maxx>
+    <miny>2014152.1147909674</miny>
+    <maxy>2172604.087075022</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.350000000000023</minx>
+    <maxx>21.000000000000007</maxx>
+    <miny>17.80000000000001</miny>
+    <maxy>19.150000999999957</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

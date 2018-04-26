@@ -1,0 +1,15 @@
+<layer>
+  <name>Pcp_moy_RFE_Iso_50mm_2001_2012_TCD_L</name>
+  <id>LayerInfoImpl-71f20adf:162d4838f65:-7db6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7eb5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71f20adf:162d4838f65:-7db7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

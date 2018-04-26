@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fcc</id>
+  <name>Ouadis_simpl_L</name>
+  <nativeName>Ouadis_simpl_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis simplifiés, Tchad</title>
+  <abstract>Réseau hydrographique réel simplifié (niveau Strahler supérieur à 6)&#xd;
+&#xd;
+Produit provenant de l&apos;intégration de données vectorielles du SIDRAT après nettoyage et hiérarchisation selon le système Strahler&#xd;
+&#xd;
+Utilisé pour les cartes synoptiques des maquettes au 1:500&apos;000&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>Ouadis_simpl_L</string>
+    <string>features</string>
+    <string>ouadis</string>
+    <string>ouadis simplifiés</string>
+    <string>ouadis principaux</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/dfe62944a0777956c1ed8d8a05debc9db246d715</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1937069.0121403716</minx>
+    <maxx>2671640.171804849</maxx>
+    <miny>1277688.8322275975</miny>
+    <maxy>2345762.2525223256</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>17.400986999999986</minx>
+    <maxx>23.999752</maxx>
+    <miny>11.401670000000028</miny>
+    <maxy>20.612747000000013</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

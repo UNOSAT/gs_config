@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-ad927e3:152e1c38bdb:-7e26</id>
+  <name>Filons</name>
+  <nativeName>Filons</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Filons</title>
+  <abstract>Interprété et vectorisé à partir de scènes LANDSAT (produit SULTAN), d&apos;images&#xd;
+RADAR (JERS et ERS) et du modèle numérique de terrain SRTM3.&#xd;
+Nomenclature d&apos;après terrain et littérature géologique (Kusnir, 1995).&#xd;
+&#xd;
+Dykes et filons supérieurs à 10 km pour les cartes au 500&apos;000 et à 4km pour les cartes au 200&apos;000 (min. 2 km pour SIRE)&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Filons</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/e84ad3ad2d48ed8ef4f4d0a392cce207cc9a8a55</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2000967.067772655</minx>
+    <maxx>2551945.22516327</maxx>
+    <miny>1366766.7887079162</miny>
+    <maxy>2345105.9895520923</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>17.974992999999984</minx>
+    <maxx>22.924513999999988</maxx>
+    <miny>12.184973000000014</miny>
+    <maxy>20.607229000000025</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

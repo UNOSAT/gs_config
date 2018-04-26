@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl-71f20adf:162d4838f65:-7de7</id>
+  <name>HYDS_T</name>
+  <description>Hydrologie de surface Territoire</description>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-71f20adf:162d4838f65:-7e77</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">UTF-8</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">GMT+01:00</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">http://unosat.org/unosat2</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file://D:\geoserver_data\geodata\vector\HYDS_T</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

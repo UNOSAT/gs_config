@@ -1,0 +1,65 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc8</id>
+  <name>Activites_econ_Pt</name>
+  <nativeName>Activites_econ_Pt</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Activités économiques</title>
+  <abstract>Activités économiques (agriculture, élevage, pêche, ressources, commerce, industries, humanitaire, tourisme)&#xd;
+&#xd;
+Informations tirées des agents du MEH et de diverses publications&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>Activites_econ_Pt</string>
+    <string>features</string>
+    <string>activités</string>
+    <string>activités économiques</string>
+    <string>économie</string>
+    <string>agriculture</string>
+    <string>élevage</string>
+    <string>ressources</string>
+    <string>commerce</string>
+    <string>humanitaire</string>
+    <string>tourisme</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/247a0f24e0b4a653cee8e154342226f0609baf6c</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1840897.4323762837</minx>
+    <maxx>2570058.576107696</maxx>
+    <miny>1345798.08801053</miny>
+    <maxy>2527960.414827838</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>16.53706299999999</minx>
+    <maxx>23.08722899999998</maxx>
+    <miny>12.00078799999999</miny>
+    <maxy>22.136822999999982</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

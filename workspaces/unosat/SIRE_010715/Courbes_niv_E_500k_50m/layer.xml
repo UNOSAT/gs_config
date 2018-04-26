@@ -1,0 +1,16 @@
+<layer>
+  <name>Courbes_niv_E_500k_50m</name>
+  <id>LayerInfoImpl-7b1139d1:14e25f8240a:-7fc4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7b1139d1:14e25f8240a:-7fc2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7fc5</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

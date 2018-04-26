@@ -1,0 +1,15 @@
+<layer>
+  <name>Pcp_moy_TRMM_iso_50mm</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7fbf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7eb4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

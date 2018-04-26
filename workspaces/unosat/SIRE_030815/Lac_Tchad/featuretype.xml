@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-ad927e3:152e1c38bdb:-7e2c</id>
+  <name>Lac_Tchad</name>
+  <nativeName>Lac_Tchad</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Lac_Tchad</title>
+  <abstract>Etendue du lac Tchad (eaux permanentes).&#xd;
+&#xd;
+Vectorisé à partir des images satellite SPOT de 2008 à 2011 par le SIDRAT&#xd;
+grâce aux données de couverture du sol du BRGM. Extrait des zones en eau&#xd;
+permanente.</abstract>
+  <keywords>
+    <string>Lac_Tchad</string>
+    <string>plan d&apos;eau</string>
+    <string>eau de surface</string>
+    <string>tchad</string>
+    <string>lac</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/9c54ac5f3f74dc8b8139a30563600a133fe62cd6</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1509441.53346899</minx>
+    <maxx>1716744.2514479298</maxx>
+    <miny>1428825.5963181916</miny>
+    <maxy>1580472.228210413</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.559544000000018</minx>
+    <maxx>15.421776000000024</maxx>
+    <miny>12.729329999999994</miny>
+    <maxy>14.054520000000014</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

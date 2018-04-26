@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7ff0</id>
+  <name>Courbes_niv_E_200k_40m</name>
+  <nativeName>Courbes_niv_E_200k_40m</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Courbes de niveau, (eq. 40m)</title>
+  <abstract>Courbes de niveau au 1:200&apos;000 (40m), à l&apos;Est&#xd;
+&#xd;
+Courbes de niveau, équidistance 40 mètres &#xd;
+&#xd;
+Créé à partir du modèle numérique de terrain SRTM3 v4, avec rééchantillonage et lissage&#xd;
+&#xd;
+Données pour cartes à l&apos;échelle 1:200&apos;000</abstract>
+  <keywords>
+    <string>Courbes_niv_E_200k_40m</string>
+    <string>courbes topographiques</string>
+    <string>altitude</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/da575ff380eae3ed189a0993befbf5f1339b8058</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1962294.2313931105</minx>
+    <maxx>2771006.2869962337</maxx>
+    <miny>843824.7471224872</miny>
+    <maxy>2606221.694162974</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>17.627589</minx>
+    <maxx>24.89237300000002</maxx>
+    <miny>7.558190000000018</miny>
+    <maxy>22.786516</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

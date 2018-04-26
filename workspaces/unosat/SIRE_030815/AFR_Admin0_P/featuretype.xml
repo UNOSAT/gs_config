@@ -1,0 +1,62 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7ffe</id>
+  <name>AFR_Admin0_P</name>
+  <nativeName>AFR_Admin0_P</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Frontières internationales, Afrique</title>
+  <abstract>Pays et territoires, Afrique&#xd;
+&#xd;
+Extrait de la base de données des frontières et limites administratives des Nations Unies, version 5, avec ajout frontière Soudan/Sud Soudan&#xd;
+&#xd;
+Données pour cartes à échelle 1:1&apos;000&apos;000 ou supérieure. La représentation et l’utilisation des limites administratives ne sont pas garanties sans erreurs, de même qu’ils n’engagent pas la responsabilité des éditeurs ni m’impliquent de reconnaissance officielle de leur part</abstract>
+  <keywords>
+    <string>AFR_Admin0_P</string>
+    <string>features</string>
+    <string>frontière</string>
+    <string>frontière</string>
+    <string>pays</string>
+    <string>afrique</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/d001e11d66c6f9f97f220bccdc79a0a687eb5cf4</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>-2822917.571179386</minx>
+    <maxx>7068809.929271031</maxx>
+    <miny>-5938630.695186056</miny>
+    <maxy>4515193.040118013</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-25.3587</minx>
+    <maxx>63.50020000000001</maxx>
+    <miny>-46.9789</miny>
+    <maxy>37.543899999999994</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

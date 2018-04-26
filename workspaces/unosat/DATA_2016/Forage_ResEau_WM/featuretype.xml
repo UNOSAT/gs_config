@@ -1,0 +1,39 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7dad</id>
+  <name>Forage_ResEau_WM</name>
+  <nativeName>Forage_ResEau_WM2</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Forages</title>
+  <keywords>
+    <string>Forage_ResEau_WM2</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1736368.096562926</minx>
+    <maxx>2641735.081159163</maxx>
+    <miny>1345740.2742272983</miny>
+    <maxy>2491596.6274440233</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>15.598059999999975</minx>
+    <maxx>23.731110000000008</maxx>
+    <miny>12.000279999999968</miny>
+    <maxy>21.833916999999982</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

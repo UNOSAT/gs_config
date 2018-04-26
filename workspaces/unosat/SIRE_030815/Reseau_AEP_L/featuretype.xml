@@ -1,0 +1,58 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fb0</id>
+  <name>Reseau_AEP_L</name>
+  <nativeName>Reseau_AEP_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Réseau AEP</title>
+  <abstract>Conduites AEP&#xd;
+&#xd;
+Créé à partir de la description de deux ouvrages AEP ayant des coordonnées géographiques</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Reseau_AEP_L</string>
+    <string>conduite d&apos;adduction</string>
+    <string>aep</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/6c5a6850354c39098675f1f20c14cb2f89f1ca5d</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2318961.87989476</minx>
+    <maxx>2383863.369417052</maxx>
+    <miny>1371150.547479255</miny>
+    <maxy>1634518.1777172685</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>20.831589000000008</minx>
+    <maxx>21.414608999999988</maxx>
+    <miny>12.223462999999969</miny>
+    <maxy>14.524999999999961</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

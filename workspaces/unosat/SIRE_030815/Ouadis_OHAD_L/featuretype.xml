@@ -1,0 +1,62 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fd2</id>
+  <name>Ouadis_OHAD_L</name>
+  <nativeName>Ouadis_OHAD_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, OHAD</title>
+  <abstract>Ouadis sur emprise 1:500&apos;000 Ouadi Haddad.&#xd;
+&#xd;
+Réseau hydrographique réel détaillé (niveau Strahler supérieur à 3) de l&apos;emprise au 1:500&apos;000 de Ouadi Haddad&#xd;
+&#xd;
+Produit provenant de l&apos;intégration de données vectorielles du SIDRAT après nettoyage et hiérarchisation selon le système Strahler</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Ouadis_OHAD_L</string>
+    <string>eau de surface</string>
+    <string>ouadis</string>
+    <string>ouadi</string>
+    <string>réseau hydrographique</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/8c3f660af04bdb4089dd6532d5861a9632d4a072</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2003751.2795568863</minx>
+    <maxx>2337709.3066587453</maxx>
+    <miny>1574217.5807079426</miny>
+    <maxy>1804746.738029627</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.00000399999999</minx>
+    <maxx>21.000000000000007</maxx>
+    <miny>14.000008999999979</miny>
+    <maxy>16.000206999999975</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

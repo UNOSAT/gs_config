@@ -1,0 +1,72 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7f6f</id>
+  <name>Dir_ecoul_nappe</name>
+  <nativeName>Dir_ecoul_nappe</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Direction d&apos;écoulement de la nappe</title>
+  <abstract>Direction d&apos;écoulement de la nappe phréatique&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Dir_ecoul_nappe</string>
+    <string>écoulement</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/9924937abed0eae49f667c3b1e61410901461bda</content>
+    </metadataLink>
+  </metadataLinks>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, &#xd;
+  DATUM[&quot;D_WGS_1984&quot;, &#xd;
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>21.372447000000022</minx>
+    <maxx>21.580926999999992</maxx>
+    <miny>12.242717000000027</miny>
+    <maxy>17.193357000000013</maxy>
+    <crs>GEOGCS[&quot;GCS_WGS_1984&quot;, &#xd;
+  DATUM[&quot;D_WGS_1984&quot;, &#xd;
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.372447000000022</minx>
+    <maxx>21.580926999999992</maxx>
+    <miny>12.242717000000027</miny>
+    <maxy>17.193357000000013</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-7b1139d1:14e25f8240a:-7fc6</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

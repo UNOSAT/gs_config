@@ -1,0 +1,63 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fdc</id>
+  <name>Ouadis_ENNE_L</name>
+  <nativeName>Ouadis_ENNE_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, ENNE</title>
+  <abstract>Ouadis sur emprise 1:500&apos;000 Ennedi.&#xd;
+&#xd;
+Réseau hydrographique réel détaillé (niveau Strahler supérieur à 3) de l&apos;emprise au 1:500&apos;000 de l&apos;Ennedi&#xd;
+&#xd;
+Produit provenant de l&apos;intégration de données vectorielles du SIDRAT après nettoyage et hiérarchisation selon le système Strahler</abstract>
+  <keywords>
+    <string>Ouadis_ENNE_L</string>
+    <string>features</string>
+    <string>ouadis</string>
+    <string>ouadi</string>
+    <string>cours d&apos;eau</string>
+    <string>eau de surface</string>
+    <string>réseau hydrographique</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/52477c62de22f4fdebc65d9f9003f87ec8a11b50</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2337457.0566926054</minx>
+    <maxx>2671667.7790385657</maxx>
+    <miny>1804722.9978684995</miny>
+    <maxy>2037575.3488148248</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>20.99773399999998</minx>
+    <maxx>24.0</maxx>
+    <miny>16.00000199999998</miny>
+    <maxy>18.000228999999976</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

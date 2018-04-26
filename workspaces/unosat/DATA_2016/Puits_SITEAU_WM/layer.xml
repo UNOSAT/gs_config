@@ -1,0 +1,15 @@
+<layer>
+  <name>Puits_SITEAU_WM</name>
+  <id>LayerInfoImpl--73241f13:1540fa58ed0:-7ff4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--73241f13:1540fa58ed0:-7fe4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--73241f13:1540fa58ed0:-7ff5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

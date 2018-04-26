@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7f37</id>
+  <name>Ouadis_TOUS_L_WM</name>
+  <nativeName>Ouadis_TOUS_L_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, TOUS</title>
+  <keywords>
+    <string>features</string>
+    <string>Ouadis_TOUS_L_WM</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1686494.1817002727</minx>
+    <maxx>2009316.8088185894</maxx>
+    <miny>2271967.745334388</miny>
+    <maxy>2524620.5104774446</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>15.150035000000003</minx>
+    <maxx>18.050000000000015</maxx>
+    <miny>19.991024999999986</miny>
+    <maxy>22.109029000000028</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

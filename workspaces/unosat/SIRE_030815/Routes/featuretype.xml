@@ -1,0 +1,60 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fae</id>
+  <name>Routes</name>
+  <nativeName>Routes</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Routes</title>
+  <abstract>Réseau routier&#xd;
+&#xd;
+Produit provenant de la vectorisation de tracés à partir des images satellites de très haute résolution (scènes QuickBird, IKONOS et SPOT de 2003 à 2012) et de l&apos;intégration de données vectorielles du SIDRAT, élaborées à partir d&apos;une couverture image SPOT&#xd;
+&#xd;
+Un coefficient décrit la validité/visibilité des tracés</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Routes</string>
+    <string>réseau routier</string>
+    <string>réseau routier\@vocabulary=infrastructures routières\;</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/0c815f635186d556cf0e0b0531a16fee7ebee3d6</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1668356.3404678702</minx>
+    <maxx>2626225.1591459196</maxx>
+    <miny>1132728.29294795</miny>
+    <maxy>2751692.6157490695</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>14.987099999999998</minx>
+    <maxx>23.591782000000023</maxx>
+    <miny>10.122400000000018</miny>
+    <maxy>23.985920999999998</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

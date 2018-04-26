@@ -1,0 +1,15 @@
+<layer>
+  <name>Ouadis_BATH_L</name>
+  <id>LayerInfoImpl-71f20adf:162d4838f65:-7de5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7ec6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71f20adf:162d4838f65:-7de6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

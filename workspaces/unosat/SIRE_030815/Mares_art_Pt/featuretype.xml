@@ -1,0 +1,57 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fe0</id>
+  <name>Mares_art_Pt</name>
+  <nativeName>Mares_art_Pt</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Mares artificielles</title>
+  <abstract>Mares pastorales&#xd;
+&#xd;
+Extrait de la base de donnees SITEAU, v. 1.07 puis cartographie, également en partie à partir d&apos;images satellite de très haute résolution (scènes QuickBird, IKONOS et SPOT de 2003 à 2012)&#xd;
+&#xd;
+Données pas exhaustives et de qualité variable&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Mares_art_Pt</string>
+    <string>mares</string>
+    <string>mares artificielles</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/20672a5a5d5c61f1f4ca58afd0d90ea8b5f2d7d2</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1908294.3709236903</minx>
+    <maxx>2568789.6452321457</maxx>
+    <miny>1168313.9789441668</miny>
+    <maxy>2419988.7482087184</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>17.142499999999984</minx>
+    <maxx>23.075829999999996</maxx>
+    <miny>10.436939999999998</miny>
+    <maxy>21.235559000000013</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

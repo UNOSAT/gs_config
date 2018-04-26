@@ -1,0 +1,20 @@
+<layer>
+  <name>Aeroports_Pt</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7ff3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-196fbef0:14f47a5d52f:-7c3f</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-196fbef0:14f47a5d52f:-7c3f</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

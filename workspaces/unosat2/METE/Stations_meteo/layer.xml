@@ -1,0 +1,15 @@
+<layer>
+  <name>Stations_meteo</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7eb2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-863c5e8:14f6cd94208:-7f21</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7eb3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

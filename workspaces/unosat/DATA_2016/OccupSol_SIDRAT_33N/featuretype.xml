@@ -1,0 +1,37 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7da3</id>
+  <name>OccupSol_SIDRAT_33N</name>
+  <nativeName>OccupSol_SIDRAT_33N</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Occupation du sol O., SIDRAT</title>
+  <keywords>
+    <string>features</string>
+    <string>OccupSol_SIDRAT_33N</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1498417.4329182236</minx>
+    <maxx>2003750.8343322794</maxx>
+    <miny>829910.6288575236</miny>
+    <maxy>2691817.59634823</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.460512819815781</minx>
+    <maxx>18.000000000479297</maxx>
+    <miny>7.434265629573296</miny>
+    <maxy>23.493569000141793</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

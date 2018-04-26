@@ -1,0 +1,16 @@
+<layer>
+  <name>AFR_Localites</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-863c5e8:14f6cd94208:-7eab</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7ffa</id>
+  </resource>
+  <queryable>false</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

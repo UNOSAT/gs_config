@@ -1,0 +1,15 @@
+<layer>
+  <name>Zones_irriguees</name>
+  <id>LayerInfoImpl-71f20adf:162d4838f65:-7e59</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1b2afc1:14f830980df:-7fc0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71f20adf:162d4838f65:-7e5a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

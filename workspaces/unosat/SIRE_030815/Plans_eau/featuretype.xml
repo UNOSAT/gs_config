@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fba</id>
+  <name>Plans_eau</name>
+  <nativeName>Plans_eau</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Plans d&apos;eau</title>
+  <abstract>Lacs naturels et artificiels&#xd;
+&#xd;
+Vectorisé en partie à partir des images satellite SPOT de 2008 à 2011 par le SIDRAT grâce aux données de couverture du sol du BRGM&#xd;
+&#xd;
+Lacs Tchad et Fitri pas inclus dans ce fichier</abstract>
+  <keywords>
+    <string>Plans_eau</string>
+    <string>features</string>
+    <string>plans d&apos;eau</string>
+    <string>eau de surface</string>
+    <string>lac</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/ce6cd59c11f8d35a14c10ab8607d32dd3028634a</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2052010.1712471133</minx>
+    <maxx>2702874.8624485675</maxx>
+    <miny>1336409.6666827907</miny>
+    <maxy>2163104.695587485</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.433520999999985</minx>
+    <maxx>24.280337999999976</maxx>
+    <miny>11.918280999999968</miny>
+    <maxy>19.069368999999995</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7f39</id>
+  <name>Ouadis_TIBN_L_WM</name>
+  <nativeName>Ouadis_TIBN_L_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, TIBN</title>
+  <keywords>
+    <string>Ouadis_TIBN_L_WM</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1669652.4332991752</minx>
+    <maxx>2004855.9028640299</maxx>
+    <miny>2505523.195201677</miny>
+    <maxy>2674455.3781241854</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>14.998742999999992</minx>
+    <maxx>18.009927000000005</maxx>
+    <miny>21.94999999999998</miny>
+    <maxy>23.350453000000005</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,15 @@
+<layer>
+  <name>Failles_fosses_continentaux_8M_P</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7e9c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7e9d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl--5aecb2b:14e7299ab53:-7fe8</id>
+  <name>Data_130715</name>
+  <description>data MA</description>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1061af8f:14ddeccde35:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Europe/Berlin</entry>
+    <entry key="fstype">shape</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="charset">UTF-8</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file://D:\geoserver_data\unosatResEAU\geoportal\DATA_130715</entry>
+    <entry key="namespace">http://unosat.org/unosat</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

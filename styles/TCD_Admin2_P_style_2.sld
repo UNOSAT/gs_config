@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:ogc="http://www.opengis.net/ogc" xmlns:gml="http://www.opengis.net/gml" version="1.0.0">
+<NamedLayer>
+  <Name>TCD_Admin2_P_style</Name>
+  <UserStyle>
+    <Name>TCD_Admin2_P_style</Name>
+    <Title>TCD Admin2 P style</Title>
+    <FeatureTypeStyle>
+      <Name>name</Name>
+      <Rule>
+        <PolygonSymbolizer>
+          <Stroke>
+            <CssParameter name="stroke">#38A800</CssParameter>
+            <CssParameter name="stroke-linejoin">round</CssParameter>
+            <CssParameter name="stroke-width">1.5</CssParameter>
+            <CssParameter name="stroke-dasharray">6.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0</CssParameter>
+          </Stroke>
+        </PolygonSymbolizer>
+      </Rule>
+
+      <Rule>
+        <MaxScaleDenominator>3000000.0</MaxScaleDenominator>
+        <TextSymbolizer>
+          <Label><ogc:PropertyName>Dept</ogc:PropertyName></Label>
+          <Font>
+            <CssParameter name="font-family">Arial</CssParameter>
+            <CssParameter name="font-size">12</CssParameter>
+            <CssParameter name="font-style">italic</CssParameter>
+            <CssParameter name="font-weight">normal</CssParameter>
+          </Font>
+          <LabelPlacement>
+            <PointPlacement>
+              <AnchorPoint>
+                <AnchorPointX>0.5</AnchorPointX>
+                <AnchorPointY>0.5</AnchorPointY>
+              </AnchorPoint></PointPlacement>
+          </LabelPlacement>
+          <Fill>
+          <CssParameter name="fill">#38A800</CssParameter>
+          </Fill>
+        </TextSymbolizer>
+      </Rule>
+    </FeatureTypeStyle>
+  </UserStyle>
+</NamedLayer>
+</StyledLayerDescriptor>

@@ -1,0 +1,65 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fbe</id>
+  <name>Pcp_moy_Stations</name>
+  <nativeName>Pcp_moy_Stations</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Précipitations stations (Moy)</title>
+  <abstract>Précipitations moyennes aux stations météorologiques répertoriées sur le sol Tchadien + quelques stations importantes pays voisins&#xd;
+&#xd;
+Reporté à partir d’une carte de l’ouvrage de Beauvilain (1995) sur les aléas et variations climatiques au Tchad (CNAR); données de la DREM, données récentes (OMM) et historiques (bibliographique) &#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Pcp_moy_Stations</string>
+    <string>précipitations</string>
+    <string>pluie</string>
+    <string>stations météorologiques</string>
+    <string>météorologie</string>
+    <string>météo</string>
+    <string>climat</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/60511ed10d6a0a623dfe9f7d6e65de082464451d</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>950702.8490972092</minx>
+    <maxx>2823741.66936973</maxx>
+    <miny>815887.2783847342</miny>
+    <maxy>2668129.7875834005</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>8.54030899999998</minx>
+    <maxx>25.366103000000013</maxx>
+    <miny>7.309332999999975</miny>
+    <maxy>23.29827299999999</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

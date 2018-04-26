@@ -1,0 +1,15 @@
+<layer>
+  <name>Geol_Simpl_BLT_8M_P</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7ee4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7ee5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

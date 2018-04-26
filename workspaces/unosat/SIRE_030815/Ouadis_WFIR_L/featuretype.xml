@@ -1,0 +1,62 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fd4</id>
+  <name>Ouadis_WFIR_L</name>
+  <nativeName>Ouadis_WFIR_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, WFIR</title>
+  <abstract>Ouadis sur emprise 1:500&apos;000 Wadi Fira Est.&#xd;
+&#xd;
+Réseau hydrographique réel détaillé (niveau Strahler supérieur à 3) de l&apos;emprise au 1:500&apos;000 de Wadi Fira Est&#xd;
+&#xd;
+Produit provenant de l&apos;intégration de données vectorielles du SIDRAT après nettoyage et hiérarchisation selon le système Strahler</abstract>
+  <keywords>
+    <string>Ouadis_WFIR_L</string>
+    <string>features</string>
+    <string>eau de surface</string>
+    <string>ouadis</string>
+    <string>ouadi</string>
+    <string>réseau hydrographique</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/b69138e6bc21fe8d9e85bbe5faf4398d8d1e15f6</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2337247.108132974</minx>
+    <maxx>2673066.2858014014</maxx>
+    <miny>1568481.490395542</miny>
+    <maxy>1811122.3749366289</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>20.995848000000024</minx>
+    <maxx>24.012562999999997</maxx>
+    <miny>13.950005999999957</miny>
+    <maxy>16.05525399999998</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

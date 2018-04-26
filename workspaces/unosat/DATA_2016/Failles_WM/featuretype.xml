@@ -1,0 +1,47 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3a4a336a:1531efb62e9:-7dc6</id>
+  <name>Failles_WM</name>
+  <nativeName>Failles_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Failles</title>
+  <abstract>Failles, version pour les cartes au 1:200&apos;000 (supérieures à 4 km)&#xd;
+&#xd;
+Interprétées et vectorisées à partir de scènes LANDSAT (produit SULTAN), d&apos;images RADAR (JERS et ERS) et du modèle numérique de terrain SRTM3&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>Failles_WM</string>
+    <string>Faille</string>
+    <string>Tectonique</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2225221.8517680685</minx>
+    <maxx>2671667.7790385657</maxx>
+    <miny>1347649.4385830641</miny>
+    <maxy>2031760.8519413348</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>19.989508</minx>
+    <maxx>24.0</maxx>
+    <miny>12.017055000000026</miny>
+    <maxy>17.95054599999996</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

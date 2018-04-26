@@ -1,0 +1,15 @@
+<layer>
+  <name>Pcp_moy_FEWS_iso_50mm</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7fc1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7eb5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

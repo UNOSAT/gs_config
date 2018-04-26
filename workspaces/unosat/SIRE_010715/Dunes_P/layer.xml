@@ -1,0 +1,20 @@
+<layer>
+  <name>Dunes_P</name>
+  <id>LayerInfoImpl-7b1139d1:14e25f8240a:-7fb4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-196fbef0:14f47a5d52f:-7c60</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-196fbef0:14f47a5d52f:-7c60</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7fb5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

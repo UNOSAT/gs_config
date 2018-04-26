@@ -1,0 +1,15 @@
+<layer>
+  <name>HYDG_Est</name>
+  <id>LayerInfoImpl--4889c4d0:14ef3518df3:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7ea9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4889c4d0:14ef3518df3:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

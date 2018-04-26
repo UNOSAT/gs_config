@@ -1,0 +1,15 @@
+<layer>
+  <name>Palmeraies</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7fc3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1b2afc1:14f830980df:-7fc8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

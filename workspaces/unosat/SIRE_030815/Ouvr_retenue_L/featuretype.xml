@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fc6</id>
+  <name>Ouvr_retenue_L</name>
+  <nativeName>Ouvr_retenue_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouvrages de retenue</title>
+  <abstract>Ouvrages de retenue (barrages, seuils d&apos;epandage, digues)&#xd;
+&#xd;
+Vectorisé à partir d&apos;images satellite de très haute résolution (scènes QuickBird, IKONOS et SPOT de 2003 à 2012), en s&apos;appuyant sur les rapports UNHCR&#xd;
+&#xd;
+Le fichier n&apos;est pas exhaustif et comprend uniquement les aménagements documentés dans des rapports et clairement visibles sur les images satellites de haute résolution&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2014</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Ouvr_retenue_L</string>
+    <string>ouvrage de retenue</string>
+    <string>barrage</string>
+    <string>seuil</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/fe665d97c1592ca57b7a22187121dfa44f38abe2</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1523766.6821417178</minx>
+    <maxx>2573496.2333028857</maxx>
+    <miny>1012210.618600431</miny>
+    <maxy>1878895.877110101</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.688228999999978</minx>
+    <maxx>23.11811</maxx>
+    <miny>9.054912999999996</miny>
+    <maxy>16.63945799999998</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

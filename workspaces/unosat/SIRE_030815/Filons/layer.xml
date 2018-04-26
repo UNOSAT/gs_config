@@ -1,0 +1,16 @@
+<layer>
+  <name>Filons</name>
+  <id>LayerInfoImpl-ad927e3:152e1c38bdb:-7e25</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7b1139d1:14e25f8240a:-7fad</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-ad927e3:152e1c38bdb:-7e26</id>
+  </resource>
+  <opaque>true</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

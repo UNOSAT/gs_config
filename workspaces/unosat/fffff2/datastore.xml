@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--5f492bfb:15ae5112db8:-7a3b</id>
+  <name>fffff2</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1061af8f:14ddeccde35:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Europe/Berlin</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">http://unosat.org/unosat</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file://D:\geoserver_data\unosatResEAU\geoportal\DATA_2016</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

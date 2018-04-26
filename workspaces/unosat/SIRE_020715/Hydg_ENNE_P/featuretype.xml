@@ -1,0 +1,75 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7f4e</id>
+  <name>Hydg_ENNE_P</name>
+  <nativeName>Hydg_ENNE_P</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Hydg_ENNE_P</title>
+  <abstract>Aquifères majeurs, aquifères localisés, formations à productivité faible/nulle sur l&apos;emprise au 1:500&apos;000 de l&apos;Ennedi&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>Hydg_ENNE_P</string>
+    <string>features</string>
+    <string>hydrogéologie</string>
+    <string>ressources en eau</string>
+    <string>ResEau</string>
+    <string>carte</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/ab833497183112ccd30010bd9da4c8ce35099cd0</content>
+    </metadataLink>
+  </metadataLinks>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, &#xd;
+  DATUM[&quot;D_WGS_1984&quot;, &#xd;
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>21.0</minx>
+    <maxx>24.000000000000004</maxx>
+    <miny>16.0</miny>
+    <maxy>18.00000000000002</maxy>
+    <crs>GEOGCS[&quot;GCS_WGS_1984&quot;, &#xd;
+  DATUM[&quot;D_WGS_1984&quot;, &#xd;
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.0</minx>
+    <maxx>24.000000000000004</maxx>
+    <miny>16.0</miny>
+    <maxy>18.00000000000002</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-7b1139d1:14e25f8240a:-7f62</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

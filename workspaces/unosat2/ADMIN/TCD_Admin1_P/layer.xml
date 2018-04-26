@@ -1,0 +1,15 @@
+<layer>
+  <name>TCD_Admin1_P</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7ef8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3a4a336a:1531efb62e9:-7624</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7ef9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

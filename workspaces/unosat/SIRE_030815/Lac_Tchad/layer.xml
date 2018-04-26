@@ -1,0 +1,15 @@
+<layer>
+  <name>Lac_Tchad</name>
+  <id>LayerInfoImpl-ad927e3:152e1c38bdb:-7e2b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3a4a336a:1531efb62e9:-7dea</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-ad927e3:152e1c38bdb:-7e2c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

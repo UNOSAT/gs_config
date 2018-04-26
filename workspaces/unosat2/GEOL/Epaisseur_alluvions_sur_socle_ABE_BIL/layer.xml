@@ -1,0 +1,15 @@
+<layer>
+  <name>Epaisseur_alluvions_sur_socle_ABE_BIL</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7eea</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7eeb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

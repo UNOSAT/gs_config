@@ -1,0 +1,15 @@
+<layer>
+  <name>Ouadis_500k_L</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7ec6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3821c79b:162fdc14039:-7e1d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7ec7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

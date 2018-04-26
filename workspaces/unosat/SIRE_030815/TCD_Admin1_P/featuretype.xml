@@ -1,0 +1,58 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fa6</id>
+  <name>TCD_Admin1_P</name>
+  <nativeName>TCD_Admin1_P</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Régions, Tchad</title>
+  <abstract>Régions (1er niveau administratif)&#xd;
+&#xd;
+Découpage administratif 2008 cartographié par le SIDRAT selon données INSEED&#xd;
+&#xd;
+Données pour cartes à échelle 1:200&apos;000 ou supérieure. La représentation et l’utilisation des limites administratives ne sont pas garanties sans erreurs, de même qu’ils n’engagent pas la responsabilité des éditeurs ni m’impliquent de reconnaissance officielle de leur part</abstract>
+  <keywords>
+    <string>TCD_Admin1_P</string>
+    <string>features</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/f73b7a06d60d0823f528e36208b77d1f1200d656</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1499417.8812399963</minx>
+    <maxx>2671667.890358056</maxx>
+    <miny>830924.8664461353</miny>
+    <maxy>2686127.27544656</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.469499999999982</minx>
+    <maxx>24.000000999999997</maxx>
+    <miny>7.443300000000003</miny>
+    <maxy>23.44668100000001</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

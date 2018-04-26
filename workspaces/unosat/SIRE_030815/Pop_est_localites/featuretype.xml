@@ -1,0 +1,63 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fb8</id>
+  <name>Pop_est_localites</name>
+  <nativeName>Pop_est_localites</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Population estimée</title>
+  <abstract>Population estimée en fonction de la taille des villages et villes&#xd;
+&#xd;
+Tiré grâce à la couche des villages et des villes, digitalisé à partir d&apos;images satellite de très haute résolution,  et des estimations de population par catégorie de population&#xd;
+&#xd;
+Les villes sont estimées à un nombre d&apos;habitants proportionnel à leur surface respective. les villages de moins de 200m de large à 20 hab., ceux compris entre 200 m et 500 m à 100 hab., ceux compris entre 500m et 1&apos;000 m à 500 hab., et ceux à plus de 1&apos;000 m à 2&apos;000 hab.&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>Pop_est_localites</string>
+    <string>features</string>
+    <string>population</string>
+    <string>démographie</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/3d6e90ed9516901f246e99ea5489f7a8817e3f24</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1515436.7559651518</minx>
+    <maxx>2582623.3183530285</maxx>
+    <miny>843522.6741504513</miny>
+    <maxy>2499862.925794122</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>13.613400000000015</minx>
+    <maxx>23.200100000000024</maxx>
+    <miny>7.555499999999993</miny>
+    <maxy>21.902830999999985</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,65 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7ffc</id>
+  <name>AFR_Habitat</name>
+  <nativeName>AFR_Habitat</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Habitat, Afrique</title>
+  <abstract>Principales zones urbaines (format polygone)&#xd;
+&#xd;
+Agglomérations d&apos;une taille supérieure à 1 km en diamètre&#xd;
+&#xd;
+Vectorisé à partir d&apos;images satellite de très haute résolution (scènes QuickBird, IKONOS et SPOT de 2003 à 2012)&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2013</abstract>
+  <keywords>
+    <string>AFR_Habitat</string>
+    <string>features</string>
+    <string>Afrique</string>
+    <string>Habitat</string>
+    <string>Agglomérations</string>
+    <string>Villes</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/def67ef2e8de38f0f78a275c7856bb6d5f20324b</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2366518.6795565546</minx>
+    <maxx>2847046.4047672986</maxx>
+    <miny>1213840.6145602353</miny>
+    <maxy>2471697.2604283094</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.258799000000014</minx>
+    <maxx>25.575452999999982</maxx>
+    <miny>10.838883</miny>
+    <maxy>21.667884999999995</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

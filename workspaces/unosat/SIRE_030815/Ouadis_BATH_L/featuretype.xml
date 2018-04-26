@@ -1,0 +1,58 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fd0</id>
+  <name>Ouadis_BATH_L</name>
+  <nativeName>Ouadis_BATH_L</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouadis, BATH</title>
+  <abstract>Ouadis sur emprise 1:500&apos;000 Batha.&#xd;
+&#xd;
+Réseau hydrographique réel détaillé (niveau Strahler supérieur à 3) de l&apos;emprise au 1:500&apos;000 de Batha&#xd;
+&#xd;
+Produit provenant de l&apos;intégration de données vectorielles du SIDRAT après nettoyage et hiérarchisation selon le système Strahler</abstract>
+  <keywords>
+    <string>Ouadis_BATH_L</string>
+    <string>features</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/248811ed772f6c55a3ec87fd5f0d3545f82f8ca5</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2003750.8342789242</minx>
+    <maxx>2337709.3066587453</maxx>
+    <miny>1345708.4084091093</miny>
+    <maxy>1574237.887463603</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.0</minx>
+    <maxx>21.000000000000007</maxx>
+    <miny>11.999999999999991</miny>
+    <maxy>14.000185999999992</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

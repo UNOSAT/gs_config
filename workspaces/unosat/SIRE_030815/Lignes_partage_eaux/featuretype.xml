@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fe2</id>
+  <name>Lignes_partage_eaux</name>
+  <nativeName>Lignes_partage_eaux</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Lignes de partage des eaux</title>
+  <abstract>Lignes de partage des eaux&#xd;
+&#xd;
+Délimitation des lignes de crêtes à partir du modèle numérique de terrain, à l&apos;aide d’HydroSHEDS et par interprétation manuelle&#xd;
+&#xd;
+La délimitation en zone plane est approximative&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Lignes_partage_eaux</string>
+    <string>ligne de partage des eaux</string>
+    <string>bassins versants</string>
+    <string>bassin versant</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/99bd03b3c52a7fd5f820afd906296078667eb189</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1114580.2789956594</minx>
+    <maxx>3326927.2524170503</maxx>
+    <miny>397800.2594383946</miny>
+    <maxy>3105818.1442758827</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>10.012445000000014</minx>
+    <maxx>29.886296000000016</maxx>
+    <miny>3.5711860000000146</miny>
+    <maxy>26.858611032773748</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,25 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--67ae8836:14f80a2afbf:-7fff</id>
+  <name>fond_carte</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-1061af8f:14ddeccde35:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-196fbef0:14f47a5d52f:-7d02</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7ec9</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>1499417.8812399963</minx>
+    <maxx>2671667.890358056</maxx>
+    <miny>830924.8664461353</miny>
+    <maxy>2686530.002335121</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+</layerGroup>

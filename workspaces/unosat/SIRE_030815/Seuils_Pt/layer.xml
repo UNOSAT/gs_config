@@ -1,0 +1,15 @@
+<layer>
+  <name>Seuils_Pt</name>
+  <id>LayerInfoImpl--56a9ce77:14f2644b2f7:-7fab</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-863c5e8:14f6cd94208:-7f10</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fac</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

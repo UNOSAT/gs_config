@@ -1,0 +1,15 @@
+<layer>
+  <name>Hydg_ERDI_P</name>
+  <id>LayerInfoImpl-7b1139d1:14e25f8240a:-7f59</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-7b1139d1:14e25f8240a:-7f5a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

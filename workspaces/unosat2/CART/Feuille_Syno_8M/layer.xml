@@ -1,0 +1,15 @@
+<layer>
+  <name>Feuille_Syno_8M</name>
+  <id>LayerInfoImpl-71f20adf:162d4838f65:-7e54</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3821c79b:162fdc14039:-7e0c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71f20adf:162d4838f65:-7e55</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

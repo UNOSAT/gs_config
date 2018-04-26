@@ -1,0 +1,46 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-ad927e3:152e1c38bdb:-7e17</id>
+  <name>Lac_Fitri</name>
+  <nativeName>Lac_Fitri</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Lac_Fitri</title>
+  <keywords>
+    <string>features</string>
+    <string>Lac_Fitri</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1936358.4598306413</minx>
+    <maxx>1960789.5258360603</maxx>
+    <miny>1421659.3520863869</miny>
+    <maxy>1451817.3835577741</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>17.394604000000015</minx>
+    <maxx>17.61407200000002</maxx>
+    <miny>12.666529000000029</miny>
+    <maxy>12.930712000000012</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

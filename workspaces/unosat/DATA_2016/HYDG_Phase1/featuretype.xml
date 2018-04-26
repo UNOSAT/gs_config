@@ -1,0 +1,42 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--1955f95f:157c2ff39fb:-6c63</id>
+  <name>HYDG_Phase1</name>
+  <nativeName>HYDG_Phase1</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>HYDG_Phase1</title>
+  <abstract>Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>HYDG_Phase1</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1669792.3618768614</minx>
+    <maxx>2671667.8903409457</maxx>
+    <miny>1345708.4084546</miny>
+    <maxy>2686530.0023351284</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>14.999999999800195</minx>
+    <maxx>24.000000999846293</maxx>
+    <miny>12.000000000399725</miny>
+    <maxy>23.450000000000045</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

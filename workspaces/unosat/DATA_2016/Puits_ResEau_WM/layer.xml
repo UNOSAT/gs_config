@@ -1,0 +1,16 @@
+<layer>
+  <name>Puits_ResEau_WM</name>
+  <id>LayerInfoImpl--2c9f3b42:1530b00b2fb:-7d9b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3a4a336a:1531efb62e9:-79bd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2c9f3b42:1530b00b2fb:-7d9c</id>
+  </resource>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

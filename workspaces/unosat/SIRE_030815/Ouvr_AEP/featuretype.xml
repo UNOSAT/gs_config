@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fca</id>
+  <name>Ouvr_AEP</name>
+  <nativeName>Ouvr_AEP</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Ouvrages AEP</title>
+  <abstract>Ouvrages existants/en cours de réalisation pour l&apos;adduction de l&apos;eau potable: Station de captage, station de pompage, ouvrage de captage et château d&apos;eau&#xd;
+&#xd;
+Divers projets d&apos;hydraulique, missions de terrain projet ResEau, images THR&#xd;
+&#xd;
+Seuls les ouvrages en état sont représentés</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Ouvr_AEP</string>
+    <string>ouvrages AEP</string>
+    <string>AEP</string>
+    <string>adduction d&apos;eau</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/450dd17351e85f17b3c92b76a1fb791f0934c16a</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2127756.850840454</minx>
+    <maxx>2569442.645365142</maxx>
+    <miny>1345743.4608109433</miny>
+    <maxy>2221971.817655034</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>19.113965000000007</minx>
+    <maxx>23.081696000000022</maxx>
+    <miny>12.000308000000013</miny>
+    <maxy>19.56840299999999</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,39 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--73241f13:1540fa58ed0:-7ff5</id>
+  <name>Puits_SITEAU_WM</name>
+  <nativeName>Puits_SITEAU_WM</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Puits_SITEAU_WM</title>
+  <keywords>
+    <string>Puits_SITEAU_WM</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1558472.87110583</minx>
+    <maxx>2627541.957402511</maxx>
+    <miny>850204.6544622388</miny>
+    <maxy>2497423.7883584714</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>14.0</minx>
+    <maxx>23.603611</maxx>
+    <miny>7.6149999999999975</miny>
+    <maxy>21.8825</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--2c9f3b42:1530b00b2fb:-7f40</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

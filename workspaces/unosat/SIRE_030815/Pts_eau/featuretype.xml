@@ -1,0 +1,68 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--56a9ce77:14f2644b2f7:-7fb4</id>
+  <name>Pts_eau</name>
+  <nativeName>Pts_eau</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1061af8f:14ddeccde35:-7ffe</id>
+  </namespace>
+  <title>Points d&apos;eau</title>
+  <abstract>Points d&apos;eau (Bir, Aïn, Guelta, mare naturelle) &#xd;
+&#xd;
+Informations tirées des cartes topographiques 1:200&apos;000, ancienne série IGN et des images satellites&#xd;
+&#xd;
+L&apos;erreur horizontale sur la position des points d&apos;eau peut atteindre 400 m&#xd;
+&#xd;
+Produit réalisé par UNITAR pour le compte de la DDC et du MEH  sous licence «Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported»&#xd;
+© DDC, MEH 2015</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Pts_eau</string>
+    <string>points d&apos;eau</string>
+    <string>bir</string>
+    <string>puit traditionnel</string>
+    <string>guelta</string>
+    <string>aïn</string>
+    <string>source</string>
+    <string>mare</string>
+  </keywords>
+  <metadataLinks>
+    <metadataLink>
+      <type>text/plain</type>
+      <metadataType>FGDC</metadataType>
+      <content>http://cernunosat32:8080/geonetwork/srv/fre/catalog.search#/metadata/664b7fd2c62fded24795d8d0eb19e4c458346558</content>
+    </metadataLink>
+  </metadataLinks>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>1692865.1074778629</minx>
+    <maxx>2659591.840677313</maxx>
+    <miny>1012150.8747838574</miny>
+    <maxy>2542186.250242094</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>15.207266000000004</minx>
+    <maxx>23.891520000000014</maxx>
+    <miny>9.054382999999973</miny>
+    <maxy>22.255146000000032</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, &#xd;
+  DATUM[&quot;WGS84&quot;, &#xd;
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--56a9ce77:14f2644b2f7:-7fff</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

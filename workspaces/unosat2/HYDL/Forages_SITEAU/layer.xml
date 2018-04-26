@@ -1,0 +1,15 @@
+<layer>
+  <name>Forages_SITEAU</name>
+  <id>LayerInfoImpl-3821c79b:162fdc14039:-7e03</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--73241f13:1540fa58ed0:-7fec</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3821c79b:162fdc14039:-7e04</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

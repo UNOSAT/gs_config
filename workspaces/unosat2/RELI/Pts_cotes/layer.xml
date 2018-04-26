@@ -1,0 +1,15 @@
+<layer>
+  <name>Pts_cotes</name>
+  <id>LayerInfoImpl-71f20adf:162d4838f65:-7da5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-863c5e8:14f6cd94208:-7ee8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71f20adf:162d4838f65:-7da6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

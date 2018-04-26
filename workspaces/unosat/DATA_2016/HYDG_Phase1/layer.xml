@@ -1,0 +1,15 @@
+<layer>
+  <name>HYDG_Phase1</name>
+  <id>LayerInfoImpl--1955f95f:157c2ff39fb:-6c62</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3c70ad9a:14f657cb533:-7ea9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1955f95f:157c2ff39fb:-6c63</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
